@@ -12,3 +12,5 @@ E.G. "looky 50 myfile.txt" will print the first 50 bytes of file myfile.txt.
 Type "looky number1 number2 file" to print bytes starting at number1 and ending at number2.
 
 E.G. "looky 50 100 myfile.txt" will print bytes 50-100 of myfile.txt
+
+To compile use rustc
